@@ -1,4 +1,4 @@
-### Hi there!👋 I'm June Balaibo, a Web Developer.
+### <align="center"> Hi there!👋 I'm June Balaibo, a Web Developer.
 
 <!--
 **Enuj06/Enuj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
