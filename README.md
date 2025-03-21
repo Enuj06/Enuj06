@@ -1,5 +1,5 @@
-### <h1 align="center"> Hi there!👋 I'm June Balaibo, a Web Developer. </h1>
-
+### <h1 align="center"> Hi there!👋 I'm June Balaibo, a Web Developer.🚀 </h1>
+## <p align="center"> A Passionate Web & Frontend Developer✨ </p>
 <!--
 **Enuj06/Enuj06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
